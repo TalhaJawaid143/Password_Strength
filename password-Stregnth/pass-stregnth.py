@@ -75,5 +75,5 @@ if st.button("🔍 Check Password Strength"):
 # 🌟 Footer
 st.markdown("""
 ---
-Made with ❤️ by **KTALHA JAWAID**  
+Made with ❤️ by **TALHA JAWAID**  
 """)
